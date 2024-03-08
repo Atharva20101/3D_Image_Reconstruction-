@@ -9,5 +9,6 @@ Generative Model, as demonstrated by Generative Adversarial Networks (GANs) for 
 
 
 
-![image](https://github.com/Atharva20101/3D_Image_Reconstruction-/assets/114909027/db7cb3ba-193d-47e0-a1e4-fdcbea92e9f3)
+![image](https://github.com/Atharva20101/3D_Image_Reconstruction-/assets/114909027/81e443af-26e5-4904-8737-f81b1e07aaea)
+
 
