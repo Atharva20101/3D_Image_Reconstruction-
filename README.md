@@ -12,3 +12,4 @@ Generative Model, as demonstrated by Generative Adversarial Networks (GANs) for 
 ![image](https://github.com/Atharva20101/3D_Image_Reconstruction-/assets/114909027/81e443af-26e5-4904-8737-f81b1e07aaea)
 
 
+![image](https://github.com/Atharva20101/3D_Image_Reconstruction-/assets/114909027/a47c5212-5b6b-4f19-b409-c51b7cda62e8)
